@@ -1,6 +1,6 @@
 # Analise_Explorat-ria_IMDB
 
-## Mini-Projeto DSA¶
+## Mini-Projeto Data Science Academy
 ### Análise exploratória com SQL e Python
 Neste Mini-Projeto tem como função aprender mais sobre o básico da análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usando dados reais disponíveis publicamente, dados sobre filmes no IMDB.
 
