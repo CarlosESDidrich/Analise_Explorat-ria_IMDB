@@ -1,4 +1,4 @@
-# Analise_Explorat-ria_IMDB
+# Analise_Exploratoria_IMDB
 
 ## Mini-Projeto Data Science Academy
 ### Análise exploratória com SQL e Python
